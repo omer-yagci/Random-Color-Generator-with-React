@@ -9,6 +9,9 @@ https://rcg-react.netlify.app/
 
 
 In this project I learned;
--Component,
--useSate,
+
+-Component
+
+-useSate
+
 -Props
