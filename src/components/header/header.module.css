@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  margin: 2rem 0;
+  background-color: lightgreen;
+  font-size: 1.7rem;
+  border: 2px solid black;
+}
+h3 {
+  border-top: 2px solid black;
+}

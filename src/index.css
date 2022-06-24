@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: blue;
+}
+/* header {
+  text-align: center;
+  margin: 2rem 0;
+  background-color: lightgreen;
+  font-size: 1.7rem;
+  border: 2px solid black;
+}
+h3 {
+  border-top: 2px solid black;
+}
+
+.btn-section {
+  text-align: center;
+}
+.btn {
+  text-align: center;
+  padding: 0.8rem;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: black;
+  font-size: 1.1rem;
+}
+.btn:hover {
+  transform: scale(0.99);
+  background-color: lightgoldenrodyellow;
+} */
