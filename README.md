@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random-Color-Generator-with-React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Project Link 
 
 https://rcg-react.netlify.app/
