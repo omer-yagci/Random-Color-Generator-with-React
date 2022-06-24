@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://rcg-react.netlify.app/
 
+![Form](random-color.gif)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
