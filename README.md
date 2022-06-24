@@ -12,6 +12,6 @@ In this project I learned;
 
 -Component
 
--useSate
+-useState
 
 -Props
